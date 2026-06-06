@@ -11,6 +11,7 @@ display_location: "Remote"
 verified_customer: true
 published_on_site: true
 review_date: "2026-06-06"
+
 ---
 
-I asked them to check my CV, and their feedback was helpful in rebuilding a stronger version.
+I asked them to check my CV, and their feedback was helpful.
