@@ -11,6 +11,7 @@ display_location: "Greece"
 verified_customer: true
 published_on_site: true
 review_date: "2026-06-06"
+
 ---
 
 Told me not to buy on a free review. Mind blown.
