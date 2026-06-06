@@ -11,6 +11,7 @@ display_location: "Rome"
 verified_customer: true
 published_on_site: true
 review_date: "2026-06-06"
+
 ---
 
-Paid for a CV rewrite. Legit worth every penny
+Paid for a CV rewrite. Legit worth every penny.
