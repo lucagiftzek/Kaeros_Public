@@ -7,7 +7,7 @@ type: "public_page"
 category: "core"
 description: "Servizi Kaeros in italiano — scrittura CV professionale, revisione gratuita, LinkedIn."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:19.002Z"
+exported_at: "2026-06-07T11:17:17.187Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
