@@ -7,7 +7,7 @@ type: "public_page"
 category: "core"
 description: "Prezzi Kaeros — tariffe trasparenti, nessun abbonamento, pagamento unico."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:21.682Z"
+exported_at: "2026-06-07T11:17:19.887Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
