@@ -7,7 +7,7 @@ type: "public_page"
 category: "legal"
 description: "Manage your Kaeros SMS notification preferences and unsubscribe from marketing messages."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:50.885Z"
+exported_at: "2026-06-07T11:16:48.520Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
