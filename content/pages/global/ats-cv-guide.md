@@ -7,7 +7,7 @@ type: "public_page"
 category: "guide"
 description: "Complete guide to ATS-optimised CVs — how applicant tracking systems work and how to pass them."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:22.812Z"
+exported_at: "2026-06-07T11:16:18.761Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
