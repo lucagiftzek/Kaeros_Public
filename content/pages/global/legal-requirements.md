@@ -7,7 +7,7 @@ type: "public_page"
 category: "legal"
 description: "Legal requirements, GDPR compliance information, and regulatory disclosures for Kaeros services in the EU."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:39.754Z"
+exported_at: "2026-06-07T11:16:35.887Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
