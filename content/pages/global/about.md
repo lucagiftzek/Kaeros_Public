@@ -7,7 +7,7 @@ type: "public_page"
 category: "company"
 description: "Kaeros (from Kairos + Career) helps professionals present their experience clearly with human-written, HR-reviewed CVs. We serve job seekers in Greece, Italy, and across Europe. Our mission: practical, honest career support without AI shortcuts or generic templates."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:22:46.772Z"
+exported_at: "2026-06-07T11:15:40.939Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
