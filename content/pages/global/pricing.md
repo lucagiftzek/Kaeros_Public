@@ -7,7 +7,7 @@ type: "public_page"
 category: "core"
 description: "Compare Kaeros CV writing packages: Free CV Review, CV Starter, Career Standard, Career Premium, and Career Concierge. Human-written CVs reviewed against HR standards. One-off transparent pricing, no subscriptions. Available for EU/EEA and international clients."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:22:36.881Z"
+exported_at: "2026-06-07T11:15:29.020Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
