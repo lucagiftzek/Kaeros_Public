@@ -7,7 +7,7 @@ type: "public_page"
 category: "support"
 description: "Centro assistenza Kaeros — risposte alle domande più comuni su processo, pagamenti e consegne."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:38.288Z"
+exported_at: "2026-06-07T11:17:38.084Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
