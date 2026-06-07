@@ -7,7 +7,7 @@ type: "public_page"
 category: "core"
 description: "Kaeros services include professional CV writing, free CV review, tailored cover letters, LinkedIn profile evaluation, and premium human intake sessions. Every paid CV package combines structured intake, human writing, and HR-quality review before delivery. Available in Greek, English, and Italian."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:21:50.444Z"
+exported_at: "2026-06-07T04:22:33.899Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
