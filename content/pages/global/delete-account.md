@@ -7,7 +7,7 @@ type: "public_page"
 category: "legal"
 description: "Request deletion of your Kaeros account and personal data in accordance with GDPR."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:53.672Z"
+exported_at: "2026-06-07T11:16:51.048Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
