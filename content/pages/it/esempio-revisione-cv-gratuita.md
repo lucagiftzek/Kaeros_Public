@@ -7,7 +7,7 @@ type: "public_page"
 category: "education"
 description: "Esempio di revisione CV gratuita Kaeros — scopri cosa include il servizio."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:32.782Z"
+exported_at: "2026-06-07T11:17:32.843Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
