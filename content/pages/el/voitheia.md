@@ -7,7 +7,7 @@ type: "public_page"
 category: "support"
 description: "Κέντρο βοήθειας Kaeros — απαντήσεις σε συχνές ερωτήσεις για τη διαδικασία, πληρωμές και παραδόσεις."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:16.207Z"
+exported_at: "2026-06-07T11:17:14.376Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
