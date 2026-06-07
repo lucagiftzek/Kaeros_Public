@@ -7,7 +7,7 @@ type: "public_page"
 category: "core"
 description: "Submit your CV and get honest, specific feedback from a human reviewer. We check first impression, structure, readability, ATS risks, and improvement priorities. No cost, no commitment, no rewrite included. Start with a free CV review before deciding on a paid package."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:22:39.916Z"
+exported_at: "2026-06-07T11:15:34.272Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
