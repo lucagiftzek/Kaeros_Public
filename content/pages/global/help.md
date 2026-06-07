@@ -7,7 +7,7 @@ type: "public_page"
 category: "support"
 description: "Kaeros Help Center — answers to common questions about the CV writing process, payments, revisions, and delivery."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:04.473Z"
+exported_at: "2026-06-07T11:16:00.712Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
