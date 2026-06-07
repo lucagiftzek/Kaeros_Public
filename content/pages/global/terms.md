@@ -7,7 +7,7 @@ type: "public_page"
 category: "legal"
 description: "Kaeros Terms of Service — our service agreement, refund policy, revision terms, and client obligations."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:36.789Z"
+exported_at: "2026-06-07T11:16:33.074Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
