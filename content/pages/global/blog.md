@@ -7,7 +7,7 @@ type: "public_page"
 category: "content"
 description: "Kaeros Blog — career advice, CV writing tips, job search strategies for Greek, Italian, and European job markets."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:22:43.706Z"
+exported_at: "2026-06-07T11:15:37.716Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
