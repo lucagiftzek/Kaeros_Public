@@ -7,7 +7,7 @@ type: "public_page"
 category: "service-page"
 description: "Servizio di scrittura CV professionale per il mercato del lavoro italiano — scritto da persone, revisionato da HR."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:24.332Z"
+exported_at: "2026-06-07T11:17:24.273Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
