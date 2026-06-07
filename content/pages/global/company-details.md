@@ -7,7 +7,7 @@ type: "public_page"
 category: "company"
 description: "Kaeros company registration details, registered address, VAT number, and contact information."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:42.275Z"
+exported_at: "2026-06-07T04:25:20.304Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
