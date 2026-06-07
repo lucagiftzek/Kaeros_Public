@@ -7,7 +7,7 @@ type: "public_page"
 category: "service-page"
 description: "LinkedIn profile evaluation and full makeover service to increase recruiter visibility. We review headline, summary, experience section, and skills alignment. Included in Career Premium and Concierge, or available as part of a custom request."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:19.154Z"
+exported_at: "2026-06-07T11:16:15.916Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
