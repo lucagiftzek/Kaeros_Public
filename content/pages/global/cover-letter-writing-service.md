@@ -7,7 +7,7 @@ type: "public_page"
 category: "service-page"
 description: "Professional cover letter writing that connects your experience to the specific role and company — not a CV summary. Human-written and tailored per application. Included in Career Standard and above, or available as part of a custom request."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:16.064Z"
+exported_at: "2026-06-07T11:16:12.538Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
