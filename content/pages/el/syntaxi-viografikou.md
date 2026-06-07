@@ -7,7 +7,7 @@ type: "public_page"
 category: "service-page"
 description: "Επαγγελματική σύνταξη βιογραφικού για την ελληνική αγορά εργασίας — από ανθρώπους, ελεγμένο από HR."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:01.782Z"
+exported_at: "2026-06-07T11:16:59.380Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
