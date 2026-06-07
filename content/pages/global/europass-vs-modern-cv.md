@@ -7,7 +7,7 @@ type: "public_page"
 category: "guide"
 description: "Europass vs modern CV formats — which one to use for Greek and European job applications."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:25.751Z"
+exported_at: "2026-06-07T11:16:21.467Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
