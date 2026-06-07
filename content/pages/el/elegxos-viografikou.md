@@ -7,7 +7,7 @@ type: "public_page"
 category: "education"
 description: "Συνηθισμένα λάθη σε βιογραφικά — checklist και οδηγός για την ελληνική αγορά εργασίας."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:13.297Z"
+exported_at: "2026-06-07T11:17:10.604Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
