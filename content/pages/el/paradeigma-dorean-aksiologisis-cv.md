@@ -7,7 +7,7 @@ type: "public_page"
 category: "education"
 description: "Παράδειγμα αξιολόγησης βιογραφικού από την Kaeros — δείτε τι περιλαμβάνει η δωρεάν υπηρεσία."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:10.373Z"
+exported_at: "2026-06-07T11:17:07.893Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
