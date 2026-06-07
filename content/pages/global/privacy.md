@@ -7,7 +7,7 @@ type: "public_page"
 category: "legal"
 description: "Kaeros Privacy Policy — how we collect, use, and protect your personal data under GDPR."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:34.043Z"
+exported_at: "2026-06-07T11:16:29.966Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
