@@ -7,7 +7,7 @@ type: "public_page"
 category: "education"
 description: "Πώς λειτουργεί η Kaeros — βήμα προς βήμα οδηγός της διαδικασίας συγγραφής βιογραφικού."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:04.595Z"
+exported_at: "2026-06-07T11:17:02.244Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
