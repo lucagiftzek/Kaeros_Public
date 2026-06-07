@@ -7,7 +7,7 @@ type: "public_page"
 category: "core"
 description: "Kaeros offers human-written, HR-reviewed CV services for professionals in Greece, Italy, and Europe. Start with a free CV review or choose a complete application package with cover letter and LinkedIn support. Divinely Crafted CVs — written by people, reviewed against real hiring standards."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:22:30.851Z"
+exported_at: "2026-06-07T11:15:21.400Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
