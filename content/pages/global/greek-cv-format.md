@@ -7,7 +7,7 @@ type: "public_page"
 category: "guide"
 description: "Guide to the Greek CV format — what employers in Greece expect and how to structure your CV."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:28.523Z"
+exported_at: "2026-06-07T11:16:24.231Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
