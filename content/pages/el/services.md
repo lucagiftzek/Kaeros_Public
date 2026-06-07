@@ -7,7 +7,7 @@ type: "public_page"
 category: "core"
 description: "Υπηρεσίες Kaeros στα ελληνικά — επαγγελματική συγγραφή βιογραφικού, αξιολόγηση CV, LinkedIn."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:56.369Z"
+exported_at: "2026-06-07T11:16:53.901Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
