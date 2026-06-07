@@ -7,7 +7,7 @@ type: "public_page"
 category: "education"
 description: "Esempi di CV scritti da Kaeros per diversi settori e livelli di carriera."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:30.065Z"
+exported_at: "2026-06-07T11:17:29.815Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
