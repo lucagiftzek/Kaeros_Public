@@ -7,7 +7,7 @@ type: "public_page"
 category: "education"
 description: "Παραδείγματα βιογραφικών από την Kaeros για διάφορους κλάδους και επίπεδα καριέρας."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:07.439Z"
+exported_at: "2026-06-07T11:17:05.150Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
