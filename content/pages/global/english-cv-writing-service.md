@@ -7,7 +7,7 @@ type: "public_page"
 category: "service-page"
 description: "English CV writing service for international job applications and European companies. A human writer crafts your CV in professional English — not a translation, but a complete rewrite for the target role and market. HR-quality reviewed before delivery."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:13.125Z"
+exported_at: "2026-06-07T11:16:09.647Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
