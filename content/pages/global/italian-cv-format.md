@@ -7,7 +7,7 @@ type: "public_page"
 category: "guide"
 description: "Guide to Italian CV format (curriculum vitae) — structure, tips, and common expectations."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:31.167Z"
+exported_at: "2026-06-07T11:16:27.071Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
