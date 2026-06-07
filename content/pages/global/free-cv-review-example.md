@@ -7,7 +7,7 @@ type: "public_page"
 category: "education"
 description: "Example of a real Kaeros free CV review — see what kind of feedback you will get."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:22:58.781Z"
+exported_at: "2026-06-07T11:15:54.484Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
