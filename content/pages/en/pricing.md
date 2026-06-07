@@ -7,7 +7,7 @@ type: "public_page"
 category: "core"
 description: "Kaeros pricing in English — one-off, transparent pricing with no subscriptions."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:43.888Z"
+exported_at: "2026-06-07T11:17:43.479Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
