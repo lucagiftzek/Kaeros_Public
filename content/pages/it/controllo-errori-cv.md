@@ -7,7 +7,7 @@ type: "public_page"
 category: "education"
 description: "Errori comuni nel CV da evitare — checklist e guida per il mercato del lavoro italiano."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:35.601Z"
+exported_at: "2026-06-07T11:17:35.438Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
