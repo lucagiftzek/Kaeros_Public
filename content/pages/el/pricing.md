@@ -7,7 +7,7 @@ type: "public_page"
 category: "core"
 description: "Τιμές υπηρεσιών Kaeros — διαφανής τιμολόγηση, χωρίς συνδρομές, εφάπαξ πληρωμή."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:58.953Z"
+exported_at: "2026-06-07T11:16:56.516Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
