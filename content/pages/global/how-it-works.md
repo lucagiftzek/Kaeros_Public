@@ -7,7 +7,7 @@ type: "public_page"
 category: "education"
 description: "How Kaeros works: choose a package or request a free review, complete a structured online intake or book a session, a human writer improves your CV, it passes an HR-quality check, then you receive the final files. Simple, transparent, no subscription required."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:22:52.779Z"
+exported_at: "2026-06-07T11:15:47.433Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
