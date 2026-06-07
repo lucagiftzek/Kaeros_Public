@@ -7,7 +7,7 @@ type: "public_page"
 category: "company"
 description: "Full sitemap for Kaeros.app — all public pages for CV writing, pricing, blog, and support."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:45.134Z"
+exported_at: "2026-06-07T11:16:41.525Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
