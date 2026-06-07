@@ -7,7 +7,7 @@ type: "public_page"
 category: "education"
 description: "Common CV mistakes to avoid — checklist and guide for Greek and European job markets."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:01.540Z"
+exported_at: "2026-06-07T11:15:57.590Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
