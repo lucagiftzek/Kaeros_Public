@@ -7,7 +7,7 @@ type: "public_page"
 category: "service-page"
 description: "Professional CV writing service for the Greek job market. We write βιογραφικά in Greek or English, tailored for Greek employers and ATS systems. Human-written, HR-reviewed, with structured online intake. Available as a free CV review or paid CV writing package."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:23:07.323Z"
+exported_at: "2026-06-07T11:16:03.373Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
