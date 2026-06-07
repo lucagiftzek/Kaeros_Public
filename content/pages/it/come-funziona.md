@@ -7,7 +7,7 @@ type: "public_page"
 category: "education"
 description: "Come funziona Kaeros — guida passo passo al processo di scrittura del CV."
 source: "kaeros-public-page-registry"
-exported_at: "2026-06-07T04:24:27.144Z"
+exported_at: "2026-06-07T11:17:26.913Z"
 seo4ajax_recommended: true
 indexnow_recommended: true
 canonical_domain: "www.kaeros.app"
